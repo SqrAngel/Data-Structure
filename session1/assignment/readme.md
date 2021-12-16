@@ -1,9 +1,6 @@
 # Hotel De Jojo
-<hr>
-
 #### Selamat datang di hotel del jojo
-
-### Berikut adalah harga dari kamar kamar yang kami punya:
+#### Berikut adalah harga dari kamar kamar yang kami punya:
 
 <table>
     <tr>
