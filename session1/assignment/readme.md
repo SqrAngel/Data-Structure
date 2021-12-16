@@ -13,20 +13,22 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>2</td>
-        <td>3</td>
-        <td>4</td>
-    </tr>
-    <tr>
         <td>Pantai</td>
-        <td>Rooftop</td>
-        <td>Taman</td>
-        <td>Bar</td>
+        <td>W3000.0000</td>
     </tr>
     <tr>
-        <td>W3000.0000</td>
-        <td>w4500.0000</td>
-        <td>w5000.0000</td>
-        <td>w1.250.0000</td>
+        <td>2</td>
+        <td>Rooftop</td>
+        <td>W4500.0000</td>
+    </tr>
+     <tr>
+        <td>1</td>
+        <td>Taman</td>
+        <td>W5000.0000</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Bar</td>
+        <td>W1.250.0000</td>
     </tr>
 </table>
